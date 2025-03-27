@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** for your project:  
-
----
-
 # **Basic Task Scheduler (RTOS Concept in Software)**  
 
 ## 📌 **Introduction**  
@@ -71,5 +67,3 @@ Executing Task 2 for 200ms
 🔹 Extend for **real-time applications**  
 
 ---
-
-This README provides a **clear overview** of the project and usage instructions. Let me know if you need any modifications! 🚀
